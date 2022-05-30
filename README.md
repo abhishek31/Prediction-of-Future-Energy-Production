@@ -1,0 +1,3 @@
+# Prediction-of-Future-Energy-Production   
+Prediction of Future Energy Production  
+Accurately forecasting energy demand among consumers is a challenge of its own. The match in demand and supply of energy consumption is crucial because overestimating leads to exploitation of resources and incurs additional cost and underestimating will lead to power outage. Clearly, there are tangible benefits in closely monitoring the energy production and consumption. How has the production from the gas and utilities increased with increasing demands over the years? What is the forecasted production for the electric and gas industry in the near future? Using the IP index data of electric and gas utility production facilities in the United States, we will answer the above questions.
